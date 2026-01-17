@@ -1,0 +1,7 @@
+[project]
+name = "simple-http-proxy"
+version = "0.1.0"
+description = "Simple Python HTTP/HTTPS proxy"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
